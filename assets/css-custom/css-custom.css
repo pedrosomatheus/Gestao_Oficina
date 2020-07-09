@@ -1,0 +1,9 @@
+
+.backProject{
+    /* background-image: url("<?php echo base_url('assets/css-padrao/css-padrao.css');?>"); */
+    background-image: url("../imagens/background_project.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-position: center;
+}
